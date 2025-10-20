@@ -41,7 +41,7 @@ npm install
 npm run dev
 
 ---
-##👥 Team
 
+##👥 Team
 Dan Koenkas • Shahar Cohen • Nitsan Yakobov
 HIT – Project (2025)
