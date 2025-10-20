@@ -40,7 +40,7 @@ cd frontend
 npm install
 npm run dev
 
-
+---
 👥 Team
 
 Dan Koenkas • Shahar Cohen • Nitsan Yakobov
