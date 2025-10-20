@@ -34,14 +34,14 @@ It provides a clean web interface for administrators to monitor data and manage 
 cd backend
 npm install
 node server.js
-
-###🔹 Frontend
+🔹 Frontend
+bash
+Copy code
 cd frontend
 npm install
 npm run dev
+Then open your browser at 👉 http://localhost:5173
 
----
-
-##👥 Team
+👥 Team
 Dan Koenkas • Shahar Cohen • Nitsan Yakobov
-HIT – Project (2025)
+HIT – Software Engineering Project (2025)
