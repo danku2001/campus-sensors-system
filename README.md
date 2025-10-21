@@ -38,7 +38,7 @@ node server.js
 cd frontend  
 npm install  
 npm run dev  
-Then open your browser at: http://localhost:5173
+Then i'ts open your browser.
 
 ---
 
